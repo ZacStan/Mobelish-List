@@ -3,6 +3,10 @@
 	src: url(https://zacstan.github.io/Mobelish-List/Mobelish.otf);
 }
 
+body {
+	padding: 5px;
+}
+
 .mobelish {
 	font-family: mobelish;
 }
