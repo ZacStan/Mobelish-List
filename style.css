@@ -1,1 +1,104 @@
-oof
+@font-face {
+	font-family: mobelish;
+	src: url(mobelish.otf);
+}
+
+html {
+	background-color: #c6fff8;
+}
+
+div {
+	padding: 5px 35px;
+}
+
+p {
+	font-size:18px;
+	color: #0a6662;
+	font-family: trebuchet ms;
+}
+
+h1, h2, h3, h4 {
+	color: #063c47;
+	font-family: georgia;
+}
+
+td {
+	text-align:center;
+	font-size:22px;
+	padding-bottom:10px;
+}
+
+li,dd,dt {
+	font-size:22px;
+	color: #064744;
+	font-family: courier new;
+}
+
+td {
+	color: #064744;
+	font-family: courier new;
+}
+
+table {
+	padding: 15px
+}
+
+a:link {
+	color: #00c0d6;
+	font-family: ariel;
+}
+
+a:visited {
+	color: #0063d6;
+	font-family: ariel;
+}
+
+a:hover {
+	color: #00e5ff;
+	font-family: ariel;
+}
+
+a:visited:hover {
+	color: #2d8eff;
+	font-family: ariel;
+}
+
+.hidden {
+	text-align:center;
+	color:#c6fff8;
+}
+
+.phonetic {
+	font-size:26px;
+	font-family: courier new;
+}
+
+.mobelish {
+	font-family: mobelish;
+	text-decoration: none;
+	color: #092966;
+}
+
+.letter {
+	font-family: mobelish;
+	font-size: 46px;
+	color: #092966;
+}
+
+.lettername {
+	font-family: mobelish;
+	font-size: 26px;
+	padding-bottom:35px;
+	color: #092966;
+}
+
+.cardm {
+	font-family: mobelish;
+	font-size: 46px;
+	text-align: center;
+}
+
+.carde {
+	font-size: 46px;
+	text-align: center;
+}
