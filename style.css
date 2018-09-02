@@ -43,6 +43,24 @@ table {
 	padding: 15px
 }
 
+textarea {
+	font-family: mobelish;
+	background-color: #d6fcf2;
+	font-size: 18px;
+	color: #092966;
+	width: 50%;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: solid #5a7270 3px;
+	border-radius: 14px;
+	resize: none;
+}
+
+textarea:focus {
+	border: solid #056055 3px;
+	background-color: #dbfff5;
+}
+
 a:link {
 	color: #00c0d6;
 	font-family: ariel;
@@ -96,6 +114,7 @@ a:visited:hover {
 	font-family: mobelish;
 	font-size: 46px;
 	text-align: center;
+	color: #092966;
 }
 
 .carde {
